@@ -1,4 +1,4 @@
-# projeto-newsletter
+#https://projeto-newsletter-wine.vercel.app/newsletter.html
+![image](https://github.com/user-attachments/assets/2cce6dbe-a25d-4a63-86e8-37c924dacb20)
 
-Projeto da formação de CSS, no curso de Tailwind 
-Foi um primeiro projeto feito com o tailwind. De fato, eu não gostei, mas fiz uma animação maneira.
+Projeto de estilização de uma newsletter responsiva feita com Tailwind css
